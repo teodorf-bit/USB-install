@@ -62,4 +62,4 @@ zipp==3.8.0
 pynacl
 wandb
 aim
---no-deps tbb
+tbb==0.2
